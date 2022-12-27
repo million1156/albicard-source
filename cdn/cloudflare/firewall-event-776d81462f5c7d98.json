@@ -1,0 +1,30 @@
+{
+  "action": "block",
+  "clientASNDescription": "PARTNER-AS",
+  "clientAsn": "12400",
+  "clientCountryName": "IL",
+  "clientIP": "84.229.88.238",
+  "clientRequestHTTPHost": "www.funwithalbi.xyz",
+  "clientRequestHTTPMethodName": "GET",
+  "clientRequestHTTPProtocol": "HTTP/3",
+  "clientRequestPath": "/albicard/cards-250.json",
+  "clientRequestQuery": "",
+  "datetime": "2022-12-09T11:47:15Z",
+  "rayName": "776d81462f5c7d98",
+  "ruleId": "639224f18cd94a77adae6e6048e67594",
+  "rulesetId": "",
+  "source": "firewallrules",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0",
+  "matchIndex": 0,
+  "metadata": [
+    {
+      "key": "filter",
+      "value": "0e03d23f8d8f4265bfdb9c58a3d331dd"
+    },
+    {
+      "key": "type",
+      "value": "customer"
+    }
+  ],
+  "sampleInterval": 1
+}

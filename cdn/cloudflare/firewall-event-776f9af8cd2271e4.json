@@ -1,0 +1,30 @@
+{
+  "action": "block",
+  "clientASNDescription": "BT-UK-AS BTnet UK Regional network",
+  "clientAsn": "2856",
+  "clientCountryName": "GB",
+  "clientIP": "2a00:23c7:1cb9:9f01:342c:559d:2cd:8d3e",
+  "clientRequestHTTPHost": "funwithalbi.xyz",
+  "clientRequestHTTPMethodName": "GET",
+  "clientRequestHTTPProtocol": "HTTP/3",
+  "clientRequestPath": "/albicard/cards-250.json",
+  "clientRequestQuery": "",
+  "datetime": "2022-12-09T17:54:19Z",
+  "rayName": "776f9af8cd2271e4",
+  "ruleId": "639224f18cd94a77adae6e6048e67594",
+  "rulesetId": "",
+  "source": "firewallrules",
+  "userAgent": "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42",
+  "matchIndex": 0,
+  "metadata": [
+    {
+      "key": "filter",
+      "value": "0e03d23f8d8f4265bfdb9c58a3d331dd"
+    },
+    {
+      "key": "type",
+      "value": "customer"
+    }
+  ],
+  "sampleInterval": 1
+}

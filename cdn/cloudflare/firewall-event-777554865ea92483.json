@@ -1,0 +1,30 @@
+{
+  "action": "block",
+  "clientASNDescription": "IPG-AS-AP Philippine Long Distance Telephone Company",
+  "clientAsn": "9299",
+  "clientCountryName": "PH",
+  "clientIP": "119.94.165.133",
+  "clientRequestHTTPHost": "funwithalbi.xyz",
+  "clientRequestHTTPMethodName": "GET",
+  "clientRequestHTTPProtocol": "HTTP/3",
+  "clientRequestPath": "/albicard/cards-250.json",
+  "clientRequestQuery": "",
+  "datetime": "2022-12-10T10:34:48Z",
+  "rayName": "777554865ea92483",
+  "ruleId": "639224f18cd94a77adae6e6048e67594",
+  "rulesetId": "",
+  "source": "firewallrules",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+  "matchIndex": 0,
+  "metadata": [
+    {
+      "key": "filter",
+      "value": "0e03d23f8d8f4265bfdb9c58a3d331dd"
+    },
+    {
+      "key": "type",
+      "value": "customer"
+    }
+  ],
+  "sampleInterval": 1
+}

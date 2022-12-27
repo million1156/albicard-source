@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body {
+  background: #1a1919;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.mbutton {
+  height: 296px;
+  width: 438px;
+}
+
+.albicardb {
+  background: transparent;
+  border: transparent;
+}
+
+input:valid {
+  border-color: green;
+}
+
+input:invalid {
+  border-color: red;
+}
+
+input[type="text"], input[type="password"] {
+  border-radius: 5px;
+  height: 1cm;
+  border: transparent;
+  box-shadow: 15px 20px 28px #ffffff:
+}

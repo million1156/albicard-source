@@ -1,0 +1,30 @@
+{
+  "action": "block",
+  "clientASNDescription": "TISCALI-UK TalkTalk Communications Limited",
+  "clientAsn": "9105",
+  "clientCountryName": "GB",
+  "clientIP": "81.170.53.100",
+  "clientRequestHTTPHost": "funwithalbi.xyz",
+  "clientRequestHTTPMethodName": "GET",
+  "clientRequestHTTPProtocol": "HTTP/2",
+  "clientRequestPath": "/albicard/cards-250.json",
+  "clientRequestQuery": "",
+  "datetime": "2022-12-08T16:13:58Z",
+  "rayName": "7766ca9a7d7776d1",
+  "ruleId": "639224f18cd94a77adae6e6048e67594",
+  "rulesetId": "",
+  "source": "firewallrules",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
+  "matchIndex": 0,
+  "metadata": [
+    {
+      "key": "filter",
+      "value": "0e03d23f8d8f4265bfdb9c58a3d331dd"
+    },
+    {
+      "key": "type",
+      "value": "customer"
+    }
+  ],
+  "sampleInterval": 1
+}
